@@ -23,9 +23,10 @@ I’m passionate about creating real-time, responsive UIs and efficient backends
 
 #### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 #### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -51,12 +52,17 @@ I’m passionate about creating real-time, responsive UIs and efficient backends
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-01EC64?style=flat-square)
 
 ---
 
 ### 🧩 Featured Projects
+
+#### 🔗 [Vexel AI](https://vexel-xi.vercel.app) · [GitHub](https://github.com/Amitpallai/vexel-ai)  
+Full-stack multi-LLM chat platform integrating OpenAI, Gemini, DeepSeek, LLaMA, and Grok with real-time auth, persistent chat history, and a sleek UI.  
+Stack: `Next.js`, `TypeScript`, `Supabase`, `Tailwind CSS`, `shadcn/ui`, `Radix UI`
 
 #### 🔗 [Meet.io](https://meet-io-six.vercel.app) · [GitHub](https://github.com/Amitpallai/meet.io)  
 Secure video conferencing app with 100ms SDK and OAuth2.  
