@@ -86,7 +86,7 @@ Stack: `React (Vite)`, `Express`, `MongoDB`, `Tailwind CSS`
 
 - 📧 [amitkumarpallai907@gmail.com](mailto:amitkumarpallai907@gmail.com)  
 - 🌐 [amitpallai.vercel.app](https://amitpallai.vercel.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/amit-kumar-pallai-61a86025a)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amitpallai)  
 - 💻 [GitHub](https://github.com/Amitpallai)
 
 ---
