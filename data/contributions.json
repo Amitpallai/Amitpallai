@@ -1,8 +1,8 @@
 {
  "user": "Amitpallai",
- "total": 132,
- "current_streak": 21,
- "longest_streak": 21,
+ "total": 133,
+ "current_streak": 22,
+ "longest_streak": 22,
  "best_day": {
   "date": "2026-11-10",
   "level": 4,
@@ -21,7 +21,7 @@
   "2026-08": 0,
   "2026-09": 0,
   "2026-10": 10,
-  "2026-11": 62
+  "2026-11": 63
  },
  "days": [
   {
@@ -1851,6 +1851,11 @@
   },
   {
    "date": "2026-11-16",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-17",
    "level": 0,
    "count": 0
   }
